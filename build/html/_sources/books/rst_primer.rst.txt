@@ -1,5 +1,13 @@
 reStructuredText(rst)快速入门语法说明
-=======================================
+#############################################
+
+* ``#`` with overline, for parts
+* ``*`` with overline, for chapters
+* ``=``, for sections
+* ``-``, for subsections
+* ``^``, for subsubsections
+* ``"``, for paragraphs
+
 http://www.cnblogs.com/seayxu/p/5603876.html
 
 Sphinx 使用手册
@@ -30,31 +38,26 @@ http://www.pythondoc.com/sphinx/rest.html#rst-primer
 * ``^``, 子章节的子章节
 * ``"``, 段落
 
-* ``#`` with overline, for parts
-* ``*`` with overline, for chapters
-* ``=``, for sections
-* ``-``, for subsections
-* ``^``, for subsubsections
-* ``"``, for paragraphs
-
-标题5
-^^^^^^^
-
-标题6
-~~~~~~~~
-
-标题1
-########
 
 
-标题2
+2级标题
 *************
 
-标题3
--------
+3级标题
+=============
 
-标题4
-_______
+4级标题
+----------
+
+5级标题
+^^^^^^^^^^^
+6级标题
+~~~~~~~~
+
+~~~~~~~~~~~
+7级标题？
+~~~~~~~~~~~
+
 
 
 
