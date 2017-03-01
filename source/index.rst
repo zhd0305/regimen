@@ -4,20 +4,21 @@
    contain the root `toctree` directive.
 
 
-   
-   
+
+
 保健养生文摘
 ===================================
    将一些认为值得学习的保健知识汇总以便查询、学习。
-   
+
 .. toctree::
-   :numbered: 
+   :numbered:
    :maxdepth: 2
    :caption: 目录:
-   
+
    books/classification
    books/rst_primer
    books/sports
+   books/endurance
    books/crazy_health
 
 
